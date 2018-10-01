@@ -1,7 +1,7 @@
 class Cat
 
   attr_accessor :name, :sound
-Cat.meow(cat)
+Cat.sound(cat)
 puts "meow!"
 end
 
