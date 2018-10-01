@@ -1,8 +1,8 @@
 class Cat
 
   attr_accessor :name, :meow
-Cat.meow(cat)
-puts "meow!"
+Cat.meow = puts "meow!"
+
 
 
 
